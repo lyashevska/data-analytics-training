@@ -5,7 +5,7 @@ Introductory data analytics with Python and Jupyter Notebooks
 
 Description: 
 
-This course teaches participants with no prior programming or data analytics experience how to perform data manipulation, data analysis and data visualisation in Python. Users will be able to understand the capabilities of data analytics and align business goals with techniques. Programming will be performed in a Jupyter notebook environment.  Jupyter notebooks are powerful and compelling tools, and have become ultra popular among data scientists.  A Jupyter notebook is a document that supports mixing executable code, equations, visualizations, and narrative text and allows to generate reports dynamically. It is a free and open source platform.
+This course teaches participants with no prior programming or data analytics experience how to perform data manipulation, data analysis and data visualisation in Python. Users will be able to understand the capabilities of data analytics and align business goals with techniques. Programming will be performed interactively in a Jupyter notebook environment.  Jupyter notebooks are powerful and compelling tools, and have become ultra popular among data scientists.  A Jupyter notebook is a document that supports mixing executable code, equations, visualizations, and narrative text and allows to generate reports dynamically. It is a free and open source platform.
 
 Outline:
 
