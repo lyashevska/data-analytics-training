@@ -27,14 +27,13 @@ On completion of this module the learner will be able to:
 
 
 Prerequisites:
-
 There are 2 options:
 
 1. Local installation of the open-source Anaconda Distribution (Python 3.7 version)
 
 https://www.anaconda.com/distribution/
 
-2. Remote (Binder)
+2. Remote with the binder link
 
 
 
