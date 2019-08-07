@@ -35,7 +35,6 @@ https://www.anaconda.com/distribution/
 
 2. Remote with the binder link
 
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lyashevska/data-analytics-training/master)
 
 
